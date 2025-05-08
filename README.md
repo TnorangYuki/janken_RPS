@@ -19,3 +19,10 @@
 ### 実行コマンド
 ```
 python DetectHandStatus.py HandLandmarkangles3.py voice_player1.py
+```
+
+## 音声
+VOICEVOXのずんだもんを利用しました。
+
+## クレジット
+- VOICEVOX:ずんだもん
